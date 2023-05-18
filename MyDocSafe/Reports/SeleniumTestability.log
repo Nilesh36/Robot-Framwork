@@ -1,0 +1,3321 @@
+2023-02-23 11:00:56,522 - TestabilityListener - WARNING - Execution terminated by signal
+2023-03-01 15:59:53,617 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:00,089 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:06,580 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:13,037 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:19,477 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:25,961 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:32,720 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:39,384 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:46,043 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:52,641 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:00:59,094 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:05,641 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:12,108 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:18,841 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:25,278 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:31,740 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:38,223 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:44,772 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:51,271 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-01 16:01:57,682 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x012037D3]
+	(No symbol) [0x01198B81]
+	(No symbol) [0x0109B36D]
+	(No symbol) [0x010D4E3B]
+	(No symbol) [0x010D26DB]
+	(No symbol) [0x010CFD0B]
+	(No symbol) [0x010CE4D8]
+	(No symbol) [0x010C3253]
+	(No symbol) [0x010EB41C]
+	(No symbol) [0x010C2B96]
+	(No symbol) [0x010EB774]
+	(No symbol) [0x01101215]
+	(No symbol) [0x010EB216]
+	(No symbol) [0x010C0D97]
+	(No symbol) [0x010C253D]
+	GetHandleVerifier [0x0147ABF2+2510930]
+	GetHandleVerifier [0x014A8EC1+2700065]
+	GetHandleVerifier [0x014AC86C+2714828]
+	GetHandleVerifier [0x012B3480+645344]
+	(No symbol) [0x011A0FD2]
+	(No symbol) [0x011A6C68]
+	(No symbol) [0x011A6D4B]
+	(No symbol) [0x011B0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 11:51:08,097 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 11:51:08,324 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 11:55:16,162 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 11:55:16,198 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:32:35,231 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:32:35,268 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:34:37,101 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:34:37,537 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:35:19,176 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-02 15:35:19,226 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A237D3]
+	(No symbol) [0x009B8B81]
+	(No symbol) [0x008BB36D]
+	(No symbol) [0x0089E5DA]
+	(No symbol) [0x0090F0CB]
+	(No symbol) [0x00920A56]
+	(No symbol) [0x0090B216]
+	(No symbol) [0x008E0D97]
+	(No symbol) [0x008E253D]
+	GetHandleVerifier [0x00C9ABF2+2510930]
+	GetHandleVerifier [0x00CC8EC1+2700065]
+	GetHandleVerifier [0x00CCC86C+2714828]
+	GetHandleVerifier [0x00AD3480+645344]
+	(No symbol) [0x009C0FD2]
+	(No symbol) [0x009C6C68]
+	(No symbol) [0x009C6D4B]
+	(No symbol) [0x009D0D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-03 15:00:10,832 - TestabilityListener - WARNING - Message: element click intercepted: Element <md-select ng-if="!$ctrl.multiple &amp;&amp; $ctrl.items" ng-model="$ctrl.value" ng-required="$ctrl.required" class="md-indigo-theme ng-not-empty ng-valid-parse ng-valid ng-valid-required ng-touched ng-pristine" tabindex="0" aria-disabled="false" role="button" aria-haspopup="listbox" id="select_44" required="required" aria-invalid="false" style="" aria-owns="select_listbox_46" aria-labelledby="select_44 select_value_label_43" aria-required="false">...</md-select> is not clickable at point (1011, 207). Other element would receive the click: <div class="loading-container visible active">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BC37D3]
+	(No symbol) [0x00B58B81]
+	(No symbol) [0x00A5B36D]
+	(No symbol) [0x00A94E3B]
+	(No symbol) [0x00A926DB]
+	(No symbol) [0x00A8FD0B]
+	(No symbol) [0x00A8E4D8]
+	(No symbol) [0x00A83253]
+	(No symbol) [0x00AAB41C]
+	(No symbol) [0x00A82B96]
+	(No symbol) [0x00AAB774]
+	(No symbol) [0x00AC1215]
+	(No symbol) [0x00AAB216]
+	(No symbol) [0x00A80D97]
+	(No symbol) [0x00A8253D]
+	GetHandleVerifier [0x00E3ABF2+2510930]
+	GetHandleVerifier [0x00E68EC1+2700065]
+	GetHandleVerifier [0x00E6C86C+2714828]
+	GetHandleVerifier [0x00C73480+645344]
+	(No symbol) [0x00B60FD2]
+	(No symbol) [0x00B66C68]
+	(No symbol) [0x00B66D4B]
+	(No symbol) [0x00B70D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-03 15:21:46,794 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BC37D3]
+	(No symbol) [0x00B58B81]
+	(No symbol) [0x00A5B36D]
+	(No symbol) [0x00A3E5DA]
+	(No symbol) [0x00AAF0CB]
+	(No symbol) [0x00AC0A56]
+	(No symbol) [0x00AAB216]
+	(No symbol) [0x00A80D97]
+	(No symbol) [0x00A8253D]
+	GetHandleVerifier [0x00E3ABF2+2510930]
+	GetHandleVerifier [0x00E68EC1+2700065]
+	GetHandleVerifier [0x00E6C86C+2714828]
+	GetHandleVerifier [0x00C73480+645344]
+	(No symbol) [0x00B60FD2]
+	(No symbol) [0x00B66C68]
+	(No symbol) [0x00B66D4B]
+	(No symbol) [0x00B70D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-03 15:21:46,839 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BC37D3]
+	(No symbol) [0x00B58B81]
+	(No symbol) [0x00A5B36D]
+	(No symbol) [0x00A3E5DA]
+	(No symbol) [0x00AAF0CB]
+	(No symbol) [0x00AC0A56]
+	(No symbol) [0x00AAB216]
+	(No symbol) [0x00A80D97]
+	(No symbol) [0x00A8253D]
+	GetHandleVerifier [0x00E3ABF2+2510930]
+	GetHandleVerifier [0x00E68EC1+2700065]
+	GetHandleVerifier [0x00E6C86C+2714828]
+	GetHandleVerifier [0x00C73480+645344]
+	(No symbol) [0x00B60FD2]
+	(No symbol) [0x00B66C68]
+	(No symbol) [0x00B66D4B]
+	(No symbol) [0x00B70D6B]
+	BaseThreadInitThunk [0x75C700F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77007BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77007B8E+238]
+
+2023-03-06 16:52:44,502 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x004337D3]
+	(No symbol) [0x003C8B81]
+	(No symbol) [0x002CB230]
+	(No symbol) [0x002FE337]
+	(No symbol) [0x002F3253]
+	(No symbol) [0x0031B41C]
+	(No symbol) [0x002F2B96]
+	(No symbol) [0x0031B774]
+	(No symbol) [0x00331215]
+	(No symbol) [0x0031B216]
+	(No symbol) [0x002F0D97]
+	(No symbol) [0x002F253D]
+	GetHandleVerifier [0x006AABF2+2510930]
+	GetHandleVerifier [0x006D8EC1+2700065]
+	GetHandleVerifier [0x006DC86C+2714828]
+	GetHandleVerifier [0x004E3480+645344]
+	(No symbol) [0x003D0FD2]
+	(No symbol) [0x003D6C68]
+	(No symbol) [0x003D6D4B]
+	(No symbol) [0x003E0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-06 17:07:06,955 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x004337D3]
+	(No symbol) [0x003C8B81]
+	(No symbol) [0x002CB230]
+	(No symbol) [0x002FE337]
+	(No symbol) [0x002F3253]
+	(No symbol) [0x0031B41C]
+	(No symbol) [0x002F2B96]
+	(No symbol) [0x0031B774]
+	(No symbol) [0x00331215]
+	(No symbol) [0x0031B216]
+	(No symbol) [0x002F0D97]
+	(No symbol) [0x002F253D]
+	GetHandleVerifier [0x006AABF2+2510930]
+	GetHandleVerifier [0x006D8EC1+2700065]
+	GetHandleVerifier [0x006DC86C+2714828]
+	GetHandleVerifier [0x004E3480+645344]
+	(No symbol) [0x003D0FD2]
+	(No symbol) [0x003D6C68]
+	(No symbol) [0x003D6D4B]
+	(No symbol) [0x003E0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-07 17:16:54,878 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007737D3]
+	(No symbol) [0x00708B81]
+	(No symbol) [0x0060B230]
+	(No symbol) [0x0063E337]
+	(No symbol) [0x00633253]
+	(No symbol) [0x0065B41C]
+	(No symbol) [0x00632B96]
+	(No symbol) [0x0065B774]
+	(No symbol) [0x00671215]
+	(No symbol) [0x0065B216]
+	(No symbol) [0x00630D97]
+	(No symbol) [0x0063253D]
+	GetHandleVerifier [0x009EABF2+2510930]
+	GetHandleVerifier [0x00A18EC1+2700065]
+	GetHandleVerifier [0x00A1C86C+2714828]
+	GetHandleVerifier [0x00823480+645344]
+	(No symbol) [0x00710FD2]
+	(No symbol) [0x00716C68]
+	(No symbol) [0x00716D4B]
+	(No symbol) [0x00720D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-07 17:17:40,767 - TestabilityListener - WARNING - Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007737D3]
+	(No symbol) [0x00708B81]
+	(No symbol) [0x0060B36D]
+	(No symbol) [0x0060E0FB]
+	(No symbol) [0x0060DFD0]
+	(No symbol) [0x0060E250]
+	(No symbol) [0x0063F0C9]
+	(No symbol) [0x0063DF5B]
+	(No symbol) [0x00633253]
+	(No symbol) [0x0065B41C]
+	(No symbol) [0x00632B96]
+	(No symbol) [0x0065B774]
+	(No symbol) [0x00671215]
+	(No symbol) [0x0065B216]
+	(No symbol) [0x00630D97]
+	(No symbol) [0x0063253D]
+	GetHandleVerifier [0x009EABF2+2510930]
+	GetHandleVerifier [0x00A18EC1+2700065]
+	GetHandleVerifier [0x00A1C86C+2714828]
+	GetHandleVerifier [0x00823480+645344]
+	(No symbol) [0x00710FD2]
+	(No symbol) [0x00716C68]
+	(No symbol) [0x00716D4B]
+	(No symbol) [0x00720D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-07 17:33:15,693 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007737D3]
+	(No symbol) [0x00708B81]
+	(No symbol) [0x0060B230]
+	(No symbol) [0x0063E337]
+	(No symbol) [0x00633253]
+	(No symbol) [0x0065B41C]
+	(No symbol) [0x00632B96]
+	(No symbol) [0x0065B774]
+	(No symbol) [0x00671215]
+	(No symbol) [0x0065B216]
+	(No symbol) [0x00630D97]
+	(No symbol) [0x0063253D]
+	GetHandleVerifier [0x009EABF2+2510930]
+	GetHandleVerifier [0x00A18EC1+2700065]
+	GetHandleVerifier [0x00A1C86C+2714828]
+	GetHandleVerifier [0x00823480+645344]
+	(No symbol) [0x00710FD2]
+	(No symbol) [0x00716C68]
+	(No symbol) [0x00716D4B]
+	(No symbol) [0x00720D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-07 17:41:44,133 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007737D3]
+	(No symbol) [0x00708B81]
+	(No symbol) [0x0060B230]
+	(No symbol) [0x0063E337]
+	(No symbol) [0x00633253]
+	(No symbol) [0x0065B41C]
+	(No symbol) [0x00632B96]
+	(No symbol) [0x0065B774]
+	(No symbol) [0x00671215]
+	(No symbol) [0x0065B216]
+	(No symbol) [0x00630D97]
+	(No symbol) [0x0063253D]
+	GetHandleVerifier [0x009EABF2+2510930]
+	GetHandleVerifier [0x00A18EC1+2700065]
+	GetHandleVerifier [0x00A1C86C+2714828]
+	GetHandleVerifier [0x00823480+645344]
+	(No symbol) [0x00710FD2]
+	(No symbol) [0x00716C68]
+	(No symbol) [0x00716D4B]
+	(No symbol) [0x00720D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-07 17:42:13,430 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007737D3]
+	(No symbol) [0x00708B81]
+	(No symbol) [0x0060B36D]
+	(No symbol) [0x006718E5]
+	(No symbol) [0x0065B216]
+	(No symbol) [0x00630D97]
+	(No symbol) [0x0063253D]
+	GetHandleVerifier [0x009EABF2+2510930]
+	GetHandleVerifier [0x00A18EC1+2700065]
+	GetHandleVerifier [0x00A1C86C+2714828]
+	GetHandleVerifier [0x00823480+645344]
+	(No symbol) [0x00710FD2]
+	(No symbol) [0x00716C68]
+	(No symbol) [0x00716D4B]
+	(No symbol) [0x00720D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 10:37:24,171 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 10:44:47,231 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 10:46:02,644 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 10:46:44,716 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 10:57:57,895 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:00:28,946 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:04:03,136 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:06:18,873 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="md-dialog-container" tabindex="-1" style="top: 0px; height: 804px;">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:14:39,255 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:14:42,123 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:17:03,570 - TestabilityListener - WARNING - Message: element click intercepted: Element <a class="md-raised md-primary md-button md-default-theme md-ink-ripple" ng-transclude="" ui-sref="formSetupNew.returnUrl({parentId: vm.portal.formsFolder.id, returnUrl: vm.currentUrl})" href="/form-setup/new/183504?returnUrl=%252Fportal-group%252F183500%252Fforms">...</a> is not clickable at point (424, 127). Other element would receive the click: <div class="loading-container visible active">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:17:48,619 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:24:15,030 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:24:15,083 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:24:22,646 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:24:22,928 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:44:14,569 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:54:57,636 - TestabilityListener - WARNING - Message: timeout: Timed out receiving message from renderer: 288.828
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0039D4D3]
+	(No symbol) [0x0039D241]
+	(No symbol) [0x0039BC95]
+	(No symbol) [0x0039C63A]
+	(No symbol) [0x003A5FE5]
+	(No symbol) [0x003B199E]
+	(No symbol) [0x003B4DD6]
+	(No symbol) [0x0039C993]
+	(No symbol) [0x003B1724]
+	(No symbol) [0x00411758]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:55:14,882 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:55:14,962 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:59:47,858 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 11:59:54,482 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:01,183 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:07,936 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:14,937 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:21,712 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:28,189 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:34,704 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:41,283 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:47,873 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:00:54,401 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="mds-header--menu-button md-button md-default-theme md-ink-ripple" type="button" ng-transclude="">...</button> is not clickable at point (428, 32). Other element would receive the click: <div class="viewer__container viewer__header padding layout-align-space-between-stretch layout-row" layout="row" layout-align="space-between none">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:00,015 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:00,101 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:05,165 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:05,290 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:10,354 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:10,398 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:15,434 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:15,458 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:20,505 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:20,619 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:25,631 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:25,645 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:30,660 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:30,679 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:35,692 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:35,724 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:40,734 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:40,756 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:45,774 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:45,807 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:50,826 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:01:50,858 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:04:15,696 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="md-icon-button mds__document__itemOptionsIcon mds__document--darker-gray md-button md-default-theme md-ink-ripple hide-xs hide-sm" type="button" ng-transclude="" hide-xs="" hide-sm="" custom-popover="" custom-popover-text="Options" ng-click="openContextMenu($event, item, group)">...</button> is not clickable at point (1616, 282). Other element would receive the click: <div class="viewer__container viewer__content" ng-if="getViewerState() == getViewerStates().LOADING">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:07:45,908 - TestabilityListener - WARNING - Message: element click intercepted: Element <button class="md-icon-button mds__document__itemOptionsIcon mds__document--darker-gray md-button md-default-theme md-ink-ripple hide-xs hide-sm" type="button" ng-transclude="" hide-xs="" hide-sm="" custom-popover="" custom-popover-text="Options" ng-click="openContextMenu($event, item, group)">...</button> is not clickable at point (1616, 282). Other element would receive the click: <div class="scroll">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:12:59,654 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:13:41,496 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003D52B1]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:14:25,955 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003D52B1]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:15:17,689 - TestabilityListener - WARNING - Message: element click intercepted: Element <a class="md-no-style md-button md-default-theme md-ink-ripple" ng-transclude="" ng-if="vm.isCompanyAdmin" ui-sref="companySettings({companyIndex: vm.currentCompanyIndex, section: 'info'})" aria-label="Settings" href="/company/0/settings/info"></a> is not clickable at point (125, 205). Other element would receive the click: <div class="loading-container visible active">...</div>
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x003E4E3B]
+	(No symbol) [0x003E26DB]
+	(No symbol) [0x003DFD0B]
+	(No symbol) [0x003DE4D8]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:17:53,476 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:05,318 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x004118E5]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:08,667 - TestabilityListener - WARNING - Message: element not interactable
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB230]
+	(No symbol) [0x003DE337]
+	(No symbol) [0x003D3253]
+	(No symbol) [0x003FB41C]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003FB774]
+	(No symbol) [0x00411215]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:30,844 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:30,969 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:30,991 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:31,021 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:33,043 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 12:19:33,067 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005137D3]
+	(No symbol) [0x004A8B81]
+	(No symbol) [0x003AB36D]
+	(No symbol) [0x0038E5DA]
+	(No symbol) [0x003FF0CB]
+	(No symbol) [0x00410A56]
+	(No symbol) [0x003FB216]
+	(No symbol) [0x003D0D97]
+	(No symbol) [0x003D253D]
+	GetHandleVerifier [0x0078ABF2+2510930]
+	GetHandleVerifier [0x007B8EC1+2700065]
+	GetHandleVerifier [0x007BC86C+2714828]
+	GetHandleVerifier [0x005C3480+645344]
+	(No symbol) [0x004B0FD2]
+	(No symbol) [0x004B6C68]
+	(No symbol) [0x004B6D4B]
+	(No symbol) [0x004C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:05:41,188 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:07:56,563 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:11:14,103 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x0088E5DA]
+	(No symbol) [0x008FF0CB]
+	(No symbol) [0x00910A56]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:11:14,121 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x0088E5DA]
+	(No symbol) [0x008FF0CB]
+	(No symbol) [0x00910A56]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:19:47,943 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x008B1BCB]
+	(No symbol) [0x008B4DD6]
+	(No symbol) [0x0089C993]
+	(No symbol) [0x008B1566]
+	(No symbol) [0x009110BC]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:19:48,050 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:25:44,884 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:28:20,609 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:29:17,515 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 18:55:14,022 - TestabilityListener - WARNING - Alert Text: Something went wrong. Please contact support.
+Message: unexpected alert open: {Alert text : Something went wrong. Please contact support.}
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x009118E5]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 19:03:56,079 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x0088E5DA]
+	(No symbol) [0x008FF0CB]
+	(No symbol) [0x00910A56]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 19:03:56,121 - TestabilityListener - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A137D3]
+	(No symbol) [0x009A8B81]
+	(No symbol) [0x008AB36D]
+	(No symbol) [0x0088E5DA]
+	(No symbol) [0x008FF0CB]
+	(No symbol) [0x00910A56]
+	(No symbol) [0x008FB216]
+	(No symbol) [0x008D0D97]
+	(No symbol) [0x008D253D]
+	GetHandleVerifier [0x00C8ABF2+2510930]
+	GetHandleVerifier [0x00CB8EC1+2700065]
+	GetHandleVerifier [0x00CBC86C+2714828]
+	GetHandleVerifier [0x00AC3480+645344]
+	(No symbol) [0x009B0FD2]
+	(No symbol) [0x009B6C68]
+	(No symbol) [0x009B6D4B]
+	(No symbol) [0x009C0D6B]
+	BaseThreadInitThunk [0x753F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77507BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77507B8E+238]
+
+2023-03-10 19:04:00,278 - TestabilityListener - WARNING - Execution terminated by signal
+2023-03-17 14:29:15,297 - TestabilityListener - WARNING - Execution terminated by signal
+2023-03-17 14:31:39,573 - TestabilityListener - WARNING - Execution terminated by signal

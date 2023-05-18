@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.11.1 on win32)" generated="20230317 14:31:34.290" rpa="false" schemaversion="3">
+<suite id="s1" name="Testcases" source="C:\Users\baps\Desktop\Nive_PR_Code_16-02\robotframework\MyDocSafe\Test_Suite\Testcases.robot">
+<test id="s1-t1" name="TC_001_Verify the user is able to Login with valid credentials" line="70">
+<kw name="Run Keyword If" library="BuiltIn">
+<arg>${Browser=='chrome'}</arg>
+<arg>Launch browser</arg>
+<arg>${Environment}</arg>
+<arg>${Browser}</arg>
+<arg>ELSE IF</arg>
+<arg>${Browser=='headlesschrome'}</arg>
+<arg>Launch browser Headless</arg>
+<arg>${Environment}</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<kw name="Launch browser" library="Common">
+<arg>${Environment}</arg>
+<arg>${Browser}</arg>
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${Environment}</arg>
+<arg>${Browser}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230317 14:31:34.942" level="INFO">Opening browser 'chrome' to base url 'https://app-staging.mydocsafe.com/signin'.</msg>
+<msg timestamp="20230317 14:31:39.573" level="WARN">Execution terminated by signal</msg>
+<errors>
+<msg timestamp="20230317 14:31:39.573" level="WARN">Execution terminated by signal</msg>
+<msg timestamp="20230317 14:31:43.688" level="ERROR">Execution stopped by user.</msg>
+</errors>
+</robot>
